@@ -3,7 +3,7 @@ AOS.init();
 
 // slider images array
 
-const sliderImgs = ["img1.png", "img2.png", "img3.png", "img4.png", "img5.png", "img6.png"];
+const sliderImgs = ["../images/img1.png", "../images/img2.png", "../images/img3.png", "../images/img4.png", "../images/img5.png", "../images/img6.png"];
 let sliderImage = document.querySelector('.background-image');
 let sliderGrids = [...document.querySelectorAll('.grid-item')];
 
