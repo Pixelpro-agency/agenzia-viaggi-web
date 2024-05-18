@@ -580,3 +580,11 @@ body {
         width: 100%;
     }
 }
+
+
+
+@media (min-width: 799px) and (max-width: 1024px) {
+    .book-section {
+        margin-top: 150px;
+    }
+}
